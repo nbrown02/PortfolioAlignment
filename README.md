@@ -32,14 +32,14 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 
 * It should then look something like this:
 
-<img width="302" alt="image" src="https://github.com/user-attachments/assets/fd0057c9-3d9a-4159-b17f-9ddbcf117961" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/fd0057c9-3d9a-4159-b17f-9ddbcf117961" />
 
 * Hit 'Load' 
 * You will be prompted for a login, choose Basic and enter:
   - Your PAT you created in the Prerequisites in the password field
   - Leave the username as blank or enter 'Dummy'
   
-<img width="488" alt="image" src="https://github.com/user-attachments/assets/22e31394-9eee-412c-9f29-b52bedef6afe" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/22e31394-9eee-412c-9f29-b52bedef6afe" />
 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
