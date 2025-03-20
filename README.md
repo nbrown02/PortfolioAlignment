@@ -15,8 +15,8 @@ You can use the report page on a forntightly/monthly basis. Use it to keep a han
   - For Jira, you use a 3-level hierarchy of Story > Epic > Whatever you call the third level
   - For ADO, you use a 4-level hierarchy of PBI > Feature > Epic > Whatever you call the fourth level
 * Download the appropriate template file:
-  - [Azure DevOps / Azure DevOps Server / TFS version](https://github.com/nbrown02/Capacity-Planning-Feature-Monte-Carlo/raw/main/Capacity%20Planning%20&%20Feature%20Monte%20Carlo%20(ADO).pbit)
-  - [Jira version](https://github.com/nbrown02/Capacity-Planning-Feature-Monte-Carlo/raw/main/Capacity%20Planning%20&%20Feature%20Monte%20Carlo%20(Jira).pbit) 
+  - [Azure DevOps / Azure DevOps Server / TFS version](https://github.com/nbrown02/PortfolioAlignment/raw/refs/heads/main/Portfolio%20Alignment%20(ADO).pbit)
+  - [Jira version](https://github.com/nbrown02/PortfolioAlignment/raw/refs/heads/main/Portfolio%20Alignment%20(Jira).pbit) 
 * Create/save an access token 
   - [Personal Access Token (PAT) if using Azure DevOps (make sure you have 'Read' Analytics access)](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows)
   - [Jira API token if using Jira](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/)
@@ -32,14 +32,14 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 
 * It should then look something like this:
 
-![image](https://github.com/nbrown02/Capacity-Planning-Feature-Monte-Carlo/assets/29369962/16424b1e-e43e-44c9-b460-3f69c75e083e)
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/fd0057c9-3d9a-4159-b17f-9ddbcf117961" />
 
 * Hit 'Load' 
 * You will be prompted for a login, choose Basic and enter:
   - Your PAT you created in the Prerequisites in the password field
   - Leave the username as blank or enter 'Dummy'
   
-![alt text](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/media/authentication-7.png?view=azure-devops)
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/22e31394-9eee-412c-9f29-b52bedef6afe" />
 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
