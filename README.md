@@ -39,7 +39,7 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
   - Your PAT you created in the Prerequisites in the password field
   - Leave the username as blank or enter 'Dummy'
   
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/22e31394-9eee-412c-9f29-b52bedef6afe" />
+![alt text](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/media/authentication-7.png?view=azure-devops)
 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
@@ -51,7 +51,8 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 Don't confuse the project name with the project key, a common mistake! Your project key will be in the URL when viewing an item.
 
 * It should then look something like this:
-![image](https://github.com/nbrown02/Capacity-Planning-Feature-Monte-Carlo/assets/29369962/2a24cc23-d6d5-4768-9bcf-12e6bf27bc58)
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/22e31394-9eee-412c-9f29-b52bedef6afe" />
 
 * Hit 'Load' 
 * You will be prompted for a login, choose Basic and enter:
