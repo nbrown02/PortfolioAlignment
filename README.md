@@ -65,8 +65,9 @@ Don't confuse the project name with the project key, a common mistake! Your proj
 ## Using the report
 There are two main charts the report shows. The first is the alignment over the selected period (default is 12 weeks). This will show you what the alignment is right now (furthest right value in the line chart) as well as the average over the given period.
 
-IMAGE
+![Filtering2](https://github.com/user-attachments/assets/64987e18-7f82-4a31-bd43-9092347e7840)
 
 In addition to this, you can view the list of items and see which respective items they link to. The filter for 'All items' vs. 'In flight items' works for both charts.
 
-IMAGE
+![image (1)](https://github.com/user-attachments/assets/1e228a04-0222-4d6c-8397-b1c2ceed078e)
+
