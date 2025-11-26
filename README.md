@@ -11,6 +11,7 @@ Understand how much of a team's work contributes towards the highest priority/bi
 You can use the report page on a forntightly/monthly basis. Use it to keep a handle on the backlog and what can be removed as it is no longer aligned with organisational priorities.
 
 ### Prerequisites
+* [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * Your team needs to have the following practices in place:
   - For Jira, you use a 3-level hierarchy of Story > Epic > Whatever you call the third level
   - For ADO, you use a 4-level hierarchy of PBI > Feature > Epic > Whatever you call the fourth level
